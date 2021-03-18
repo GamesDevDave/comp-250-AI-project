@@ -203,7 +203,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 581544738}
-        m_MethodName: PlayerClick
+        m_MethodName: Click
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 666525288}
@@ -362,7 +362,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 581544738}
-        m_MethodName: PlayerClick
+        m_MethodName: Click
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1560404355}
@@ -491,7 +491,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 581544738}
-        m_MethodName: PlayerClick
+        m_MethodName: Click
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1777325223}
@@ -620,7 +620,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 581544738}
-        m_MethodName: PlayerClick
+        m_MethodName: Click
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 2030926383}
@@ -871,6 +871,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   xPrefab: {fileID: 126774829122424090, guid: a080e9ba6c36d614cb33671d339ad6d2, type: 3}
+  oPrefab: {fileID: 3335558325782456611, guid: d5e6d0c6bcbb0ae4d929adb3cfbd0443, type: 3}
+  isPlayersTurn: 1
 --- !u!4 &581544739
 Transform:
   m_ObjectHideFlags: 0
@@ -997,7 +999,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 581544738}
-        m_MethodName: PlayerClick
+        m_MethodName: Click
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 894722684}
@@ -1267,7 +1269,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 581544738}
-        m_MethodName: PlayerClick
+        m_MethodName: Click
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 569818496}
@@ -1516,7 +1518,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 581544738}
-        m_MethodName: PlayerClick
+        m_MethodName: Click
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 549648460}
@@ -1680,7 +1682,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 581544738}
-        m_MethodName: PlayerClick
+        m_MethodName: Click
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 180952349}
@@ -2063,7 +2065,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 581544738}
-        m_MethodName: PlayerClick
+        m_MethodName: Click
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 681054865}
