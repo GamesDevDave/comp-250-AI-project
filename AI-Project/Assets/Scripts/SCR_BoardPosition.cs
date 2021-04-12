@@ -4,7 +4,7 @@ namespace Board
 {
     public class SCR_BoardPosition : MonoBehaviour
     {
-        [Header("Positions.")]
+        [Header("Grid positions.")]
         [Tooltip("X board position.")]
         [SerializeField] private int x;
         [Tooltip("Y board position.")]
